@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/wedding-example/static/css/main.8343005b.css",
+    "main.js": "/wedding-example/static/js/main.f65a5449.js",
+    "static/media/img_7.jpg": "/wedding-example/static/media/img_7.27b9147786e9c224e63b.jpg",
+    "static/media/img_8.jpg": "/wedding-example/static/media/img_8.ee0b7c08d7fa113c1a8a.jpg",
+    "static/media/img_9.jpg": "/wedding-example/static/media/img_9.f1bd276f27092b6007b8.jpg",
+    "static/media/amazon.png": "/wedding-example/static/media/amazon.81fa3d03e0710086f4ca.png",
+    "static/media/img_4.jpg": "/wedding-example/static/media/img_4.e2ab1c5aa3a3604fb596.jpg",
+    "static/media/img_3.jpg": "/wedding-example/static/media/img_3.f13c79341940f007459e.jpg",
+    "static/media/img_5.jpg": "/wedding-example/static/media/img_5.2ea8f89d0d70a33954d3.jpg",
+    "static/media/img_1.jpg": "/wedding-example/static/media/img_1.53d75f9b653adde4eded.jpg",
+    "static/media/Liverpool_logo.svg.png": "/wedding-example/static/media/Liverpool_logo.svg.f85426168d2530b7b24a.png",
+    "static/media/img_2.jpg": "/wedding-example/static/media/img_2.4ff2ef72d5c9a13ac6b7.jpg",
+    "static/media/el-palacio-de-hierro.svg": "/wedding-example/static/media/el-palacio-de-hierro.56d387f106d13ac4fd029afb1bf5d655.svg",
+    "index.html": "/wedding-example/index.html",
+    "main.8343005b.css.map": "/wedding-example/static/css/main.8343005b.css.map",
+    "main.f65a5449.js.map": "/wedding-example/static/js/main.f65a5449.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8343005b.css",
+    "static/js/main.f65a5449.js"
+  ]
+}
