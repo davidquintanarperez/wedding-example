@@ -1,0 +1,34 @@
+.make-up-item p {
+    font-style: italic;
+    color: #545B77;
+}
+
+@media (max-width: 600px) {
+    .make-up-item h3 {
+        font-size: 1.2rem;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 768px) {
+    .make-up-item h3 {
+        font-size: 1.3rem;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .make-up-item h3 {
+        font-size: 1.4rem;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1440px) {
+    .make-up-item h3 {
+        font-size: 1.5rem;
+    }
+}
+
+@media (min-width: 1441px) {
+    .make-up-item h3 {
+        font-size: 1.6rem;
+    }
+}

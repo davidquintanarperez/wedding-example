@@ -1,0 +1,36 @@
+.airbnb {
+    background-color: #374259;
+    width: 100%;
+    padding: 75px 0;
+}
+
+.airbnb-icon {
+    font-size: 6rem;
+    color: #fd5c63;
+}
+
+.airbnb-info p:nth-child(1) {
+    color: #FAF9F6;
+    font-size: 1.8rem;
+}
+
+.separator {
+    width: 4rem;
+    height: 2px;
+    background-color: #FAF9F6;
+    margin: 30px 0px 5px 0px;
+}
+
+@media (max-width: 767px) {
+    .airbnb-info p:nth-child(1) {
+        font-size: 1.2rem;
+        margin-top: 25px;
+        text-align: center;
+    }
+
+    .airbnb-info div {
+        margin-top: 10px;
+        display: grid;
+        place-items: center;
+    }   
+}

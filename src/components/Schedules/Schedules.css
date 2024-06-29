@@ -1,0 +1,9 @@
+#section-schedules {
+    padding-top: 0;
+}
+
+@media (max-width: 991px) {
+    .schedule-items .row > div:nth-of-type(n+2) {
+        margin-top: 50px;
+    }
+}

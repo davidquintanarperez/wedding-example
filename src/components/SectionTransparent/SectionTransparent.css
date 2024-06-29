@@ -1,0 +1,49 @@
+.section-transparent {
+    padding: 100px;
+}
+
+.section-transparent h2.title {
+    color: #374259;
+}
+
+.section-transparent p.section-paragraph {
+    color: #545B77;
+}
+
+.section-transparent p.section-paragraph {
+    font-size: 1.1rem;
+}
+
+@media (max-width: 600px) {
+    .section-transparent {
+        padding: 100px 20px;
+    }
+
+    .section-transparent h2.title {
+        font-size: 1.7rem;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 768px) {
+    .section-transparent h2.title {
+        font-size: 1.9rem;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .section-transparent h2.title {
+        font-size: 2.1rem;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1440px) {
+    .section-transparent h2.title {
+        font-size: 2.3rem;
+    }
+}
+
+@media (min-width: 1441px) {
+    .section-transparent h2.title {
+        font-size: 2.5rem;
+    }
+}

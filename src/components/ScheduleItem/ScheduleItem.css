@@ -1,0 +1,106 @@
+.schedule-item {
+    color: #374259;
+}
+
+svg {
+    font-size: 3rem;
+}
+
+.schedule-item .location {
+    color: #545B77;
+}
+
+.hour {
+    font-weight: bold;
+}
+
+.place, .location {
+    margin-bottom: 0;
+}
+
+/* Dispositivos pequeños (teléfonos en modo vertical) */
+@media (max-width: 600px) {
+    .photo {
+        margin: 25px 0;
+    }
+}
+
+/* Dispositivos medianos (teléfonos en modo horizontal, tabletas en modo vertical) */
+@media (min-width: 601px) and (max-width: 768px) {
+    .photo {
+        margin: 25px 0;
+    }
+
+    .schedule-item h3 {
+        font-size: 2rem;
+    }
+
+    .date {
+        font-size: 1.1rem;
+    }
+
+    .hour {
+        font-size: 1.1rem;
+    }
+}
+
+/* Dispositivos grandes (tabletas en modo horizontal, laptops pequeñas) */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .schedule-item h3 {
+        font-size: 2.2rem;
+    }
+
+    .date {
+        font-size: 1.4rem;
+    }
+
+    .hour {
+        font-size: 1.2rem;
+    }
+}
+
+/* Dispositivos extra grandes (laptops grandes, desktops) */
+@media (min-width: 1025px) and (max-width: 1440px) {
+    .schedule-item h3 {
+        font-size: 2.5rem;
+    }
+
+    .date {
+        font-size: 1.5rem;
+    }
+
+    .place {
+        font-size: 1rem;
+    }
+
+    .location {
+        font-size: 0.8rem;
+    }
+
+    .hour {
+        font-size: 1.3rem;
+    }
+}
+
+/* Dispositivos ultra grandes (desktops grandes, pantallas 4K) */
+@media (min-width: 1441px) {
+    .schedule-item h3 {
+        font-size: 2.8rem;
+    }
+
+    .date {
+        font-size: 1.8rem;
+    }
+
+    .place {
+        font-size: 1.1rem;
+    }
+
+    .location {
+        font-size: 0.9rem;
+    }
+
+    .hour {
+        font-size: 1.5rem;
+    }
+}

@@ -1,0 +1,72 @@
+
+/*
+Combinaciones de Fuentes
+Para crear una combinación armoniosa, puedes usar estas fuentes de manera conjunta:
+
+    - Great Vibes (para nombres y títulos) + Lora (para el cuerpo del texto)
+    - Playfair Display (para encabezados) + Roboto (para el cuerpo del texto)
+    - Dancing Script (para detalles románticos) + Josefin Sans (para el texto del cuerpo)
+    - Cinzel (para títulos) + Raleway (para subtítulos y texto del cuerpo)
+
+Ejemplos de Uso
+    - Encabezados y Títulos: Playfair Display, Great Vibes, Cinzel
+    - Cuerpo del Texto: Lora, Roboto, Josefin Sans
+    - Subtítulos y Detalles: Dancing Script, Raleway
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lora:ital,wght@0,400..700;1,400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.cinzel-font {
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.raleway-font {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.josefin-sans-font {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.dancing-script-font {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.roboto-regular-font {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.playfair-display-font {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.lora-font {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.great-vibes-regular-font {
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+  

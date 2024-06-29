@@ -1,0 +1,25 @@
+.bw-image {
+    filter: grayscale(100%);
+    width: 200px;
+    height: 100px;
+    padding: 25px 0;
+}
+
+.gift-table-item p:nth-child(2) {
+    color: #374259;
+}
+
+.gift-table-item p:nth-child(3) {
+    color: #545B77;
+}
+
+.gift-table-item p:nth-child(2) {
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+@media (max-width: 600px) {
+    .bw-image {
+        width: 130px;
+    }
+}

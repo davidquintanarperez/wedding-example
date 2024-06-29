@@ -1,0 +1,80 @@
+.ticket {
+    color: #FAF9F6;
+    text-align: center;
+    width: 100%;
+}
+
+.ticket div {
+    background-color: #374259;
+    padding: 50px 100px;
+}
+
+.ticket .location {
+    font-style: italic;
+    margin-bottom: 0;
+}
+
+.ticket .hour {
+    font-weight: bold;
+    margin-bottom: 0;
+    font-size: 1rem;
+}
+
+.ticket .location, .ticket .dress-code {
+    font-size: 0.8rem;
+}
+
+@media (max-width: 600px) {
+    .ticket h3 {
+        font-size: 1.6rem;
+    }
+
+    .ticket .date {
+        font-size: 1.2rem;
+    }
+
+    .ticket div {
+        padding: 25px 25px;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 768px) {
+    .ticket h3 {
+        font-size: 1.8rem;
+    }
+
+    .ticket .date {
+        font-size: 1.3rem;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .ticket h3 {
+        font-size: 2rem;
+    }
+    
+    .ticket .date {
+        font-size: 1.4rem;
+    }
+}
+
+
+@media (min-width: 1025px) and (max-width: 1440px) {
+    .ticket h3 {
+        font-size: 2.2rem;
+    }
+
+    .ticket .date {
+        font-size: 1.5rem;
+    }
+}
+
+@media (min-width: 1441px) {
+    .ticket h3 {
+        font-size: 2.4rem;
+    }
+
+    .ticket .date {
+        font-size: 1.6rem;
+    }
+}
