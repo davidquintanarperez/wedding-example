@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wedding-example/static/css/main.8343005b.css",
-    "main.js": "/wedding-example/static/js/main.f65a5449.js",
+    "main.css": "/wedding-example/static/css/main.e66c5a28.css",
+    "main.js": "/wedding-example/static/js/main.d9f0b210.js",
     "static/media/img_7.jpg": "/wedding-example/static/media/img_7.27b9147786e9c224e63b.jpg",
     "static/media/img_8.jpg": "/wedding-example/static/media/img_8.ee0b7c08d7fa113c1a8a.jpg",
     "static/media/img_9.jpg": "/wedding-example/static/media/img_9.f1bd276f27092b6007b8.jpg",
@@ -14,11 +14,11 @@
     "static/media/img_2.jpg": "/wedding-example/static/media/img_2.4ff2ef72d5c9a13ac6b7.jpg",
     "static/media/el-palacio-de-hierro.svg": "/wedding-example/static/media/el-palacio-de-hierro.56d387f106d13ac4fd029afb1bf5d655.svg",
     "index.html": "/wedding-example/index.html",
-    "main.8343005b.css.map": "/wedding-example/static/css/main.8343005b.css.map",
-    "main.f65a5449.js.map": "/wedding-example/static/js/main.f65a5449.js.map"
+    "main.e66c5a28.css.map": "/wedding-example/static/css/main.e66c5a28.css.map",
+    "main.d9f0b210.js.map": "/wedding-example/static/js/main.d9f0b210.js.map"
   },
   "entrypoints": [
-    "static/css/main.8343005b.css",
-    "static/js/main.f65a5449.js"
+    "static/css/main.e66c5a28.css",
+    "static/js/main.d9f0b210.js"
   ]
 }
